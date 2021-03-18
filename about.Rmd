@@ -1,0 +1,17 @@
+---
+title: "About this site"
+description: |
+  This site presents the Immersive Collaborative Environements framework developed by [@Pallot2017b] and [@Dupont2018a].
+bibliography: DesignForCommonGood.bib
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The Immersive Collaborative Environments framework was developed by [@Pallot2017b], [@Dupont2018a] and it can be use that could be used in investigations of Immersive and Collaborative performances.
+
+This site was created as a companion site to the paper **Digital Collaborations for the Common Good: Key Learnings from Four Community Projects** presented at the session [Co-Creation, Open Design, Digital Collaboration, Virtual Community](https://designascommongood.ch/day-1/diverse-open-collaborative-innovative-approaches-to-design) of the [Design as Common Good](https://designascommongood.ch) 2021 symposium of the Swiss Design Network.
+
+

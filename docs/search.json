@@ -1,0 +1,38 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "This site presents the Immersive Collaborative Environements framework developed by [@Pallot2017b] and [@Dupont2018a].\n",
+      "author": [],
+      "contents": "\nThe Immersive Collaborative Environments framework was developed by (Pallot et al. 2017), (Dupont et al. 2018) and it can be use that could be used in investigations of Immersive and Collaborative performances.\nThis site was created as a companion site to the paper Digital Collaborations for the Common Good: Key Learnings from Four Community Projects presented at the session Co-Creation, Open Design, Digital Collaboration, Virtual Community of the Design as Common Good 2021 symposium of the Swiss Design Network.\n\n\n\nDupont, Laurent, Marc Pallot, Olivier Christmann, and Simon Richir. 2018. “A Universal Framework For Systemizing the Evaluation of Immersive And Collaborative Performance.” In Proceedings of the Virtual Reality International Conference - Laval Virtual, 1–10. New York, NY, USA: ACM. https://doi.org/10.1145/3234253.3234306.\n\n\nPallot, Marc, Olivier Christmann, Simon Richir, Laurent Dupont, Vincent Boly, and Laure Morel. 2017. “ICE Breaking.” In Proceedings of the Virtual Reality International Conference - Laval Virtual 2017, 1–7. New York, NY, USA: ACM. https://doi.org/10.1145/3110292.3110316.\n\n\n\n\n",
+      "last_modified": "2021-03-18T10:38:45+01:00"
+    },
+    {
+      "path": "index.html",
+      "title": "The ICE Framework",
+      "description": "This site presents the Immersive Collaborative Environements framework developped by [@Pallot2017b] and [@Dupont2018a] that can be used in investigations of Immersive and Collaborative performances.\n",
+      "author": [
+        {
+          "name": {},
+          "url": {}
+        },
+        {
+          "name": {},
+          "url": "https://erpi.univ-lorraine.fr/people/Giovanny-Arbelaez/"
+        },
+        {
+          "name": {},
+          "url": "https://erpi.univ-lorraine.fr/people/Ferney-Osorio/"
+        },
+        {
+          "name": {},
+          "url": "https://erpi.univ-lorraine.fr/people/Laurent-Dupont/"
+        }
+      ],
+      "contents": "\nThis is a test: (Dupont et al. 2018)\n\n\n\nDupont, Laurent, Marc Pallot, Olivier Christmann, and Simon Richir. 2018. “A Universal Framework For Systemizing the Evaluation of Immersive And Collaborative Performance.” In Proceedings of the Virtual Reality International Conference - Laval Virtual, 1–10. New York, NY, USA: ACM. https://doi.org/10.1145/3234253.3234306.\n\n\nPallot, Marc, Olivier Christmann, Simon Richir, Laurent Dupont, Vincent Boly, and Laure Morel. 2017. “ICE Breaking.” In Proceedings of the Virtual Reality International Conference - Laval Virtual 2017, 1–7. New York, NY, USA: ACM. https://doi.org/10.1145/3110292.3110316.\n\n\n\n\n",
+      "last_modified": "2021-03-18T10:38:47+01:00"
+    }
+  ],
+  "collections": []
+}

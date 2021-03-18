@@ -1,0 +1,47 @@
+---
+title: "The ICE Framework"
+description: |
+  This site presents the Immersive Collaborative Environements framework developped by [@Pallot2017b] and [@Dupont2018a] that can be used in investigations of Immersive and Collaborative performances.
+
+author: 
+
+  - first_name: "Alejandro"
+    last_name: "Salas"
+    url: 
+    affiliation: ERPI
+    affiliation_url: https://erpi.univ-lorraine.fr/
+    orcid_id: 
+  - first_name: "Giovanny"
+    last_name: "Arbelaez"
+    url: https://erpi.univ-lorraine.fr/people/Giovanny-Arbelaez/
+    affiliation: ERPI
+    affiliation_url: https://erpi.univ-lorraine.fr/
+    orcid_id: 0000-0001-6328-1338
+  - first_name: "Ferney"
+    last_name: "Osorio"
+    url: https://erpi.univ-lorraine.fr/people/Ferney-Osorio/
+    affiliation: ERPI
+    affiliation_url: https://erpi.univ-lorraine.fr/
+    orcid_id: 0000-0001-6199-2304
+  - first_name: "Laurent"
+    last_name: "Dupont"
+    url: https://erpi.univ-lorraine.fr/people/Laurent-Dupont/
+    affiliation: ERPI
+    affiliation_url: https://erpi.univ-lorraine.fr/
+    orcid_id: 0000-0002-8279-9690
+site: distill::distill_website
+bibliography: DesignForCommonGood.bib
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+
+
+This is a test: [@Dupont2018a]
