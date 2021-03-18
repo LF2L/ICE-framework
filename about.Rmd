@@ -14,4 +14,5 @@ The Immersive Collaborative Environments framework was developed by [@Pallot2017
 
 This site was created as a companion site to the paper **Digital Collaborations for the Common Good: Key Learnings from Four Community Projects** presented at the session [Co-Creation, Open Design, Digital Collaboration, Virtual Community](https://designascommongood.ch/day-1/diverse-open-collaborative-innovative-approaches-to-design) of the [Design as Common Good](https://designascommongood.ch) 2021 symposium of the Swiss Design Network.
 
+The site is an invitation to use discussed framework in further analysis of digital mediated collaborations.
 
