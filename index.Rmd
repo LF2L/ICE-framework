@@ -7,7 +7,7 @@ author:
 
   - first_name: "Alejandro"
     last_name: "Salas"
-    url: 
+    url: https://linkedin.com/in/alejandrosalasprada
     affiliation: ERPI
     affiliation_url: https://erpi.univ-lorraine.fr/
     orcid_id: 
