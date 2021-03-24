@@ -36,6 +36,7 @@ bibliography: DesignForCommonGood.bib
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
+library(htmltools)
 # Learn more about creating websites with Distill at:
 # https://rstudio.github.io/distill/website.html
 
@@ -67,4 +68,9 @@ For the collaboration component the model proposes four elements, each of them w
 
 -   Mutual Understanding (MU): Group Dynamics (MUGD), Collective Intelligence (MUCI).
 
+
+```{r } 
+
+htmltools::includeHTML("presentation.html")
+```
 
